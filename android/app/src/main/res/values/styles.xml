@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Cashpaws" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#0B1713</item>
+        <item name="android:navigationBarColor">#0B1713</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">#B8F36B</item>
+    </style>
+</resources>
